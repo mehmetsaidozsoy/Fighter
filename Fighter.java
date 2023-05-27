@@ -36,4 +36,6 @@ public class Fighter {
         return randomNumber<=this.dodge;
     }
 
+    
+
 }
